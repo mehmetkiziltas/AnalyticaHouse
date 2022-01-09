@@ -1,0 +1,25 @@
+{
+  "name": "AnalyticaHouse",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.21.4",
+    "cheerio": "*",
+    "ejs": "^3.1.6",
+    "express": "^4.17.2",
+    "google-spreadsheet": "^3.2.0",
+    "googleapis": "^92.0.0",
+    "json2csv": "^5.0.6",
+    "node-xlsx": "^0.19.0",
+    "request": "^2.88.2",
+    "request-promise": "^4.2.6",
+    "xlsx": "^0.17.4"
+  }
+}
